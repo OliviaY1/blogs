@@ -10,3 +10,4 @@ goals:
 - being rejected 100 times \[1/100]
 - be a trouble-maker
 
+to update the website: `nvm use 22` then `npx quartz sync --no-pull`
